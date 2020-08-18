@@ -14,7 +14,7 @@ Hi, I'm Keshav 😉, a programmer 👨🏻‍💻 from India 🇮🇳. Beside's 
 **Current Status Quo**
 
 - 👨🏻‍💻 I’m currently working on [L.E.G.E.N.D Userbot](https://github.com/KeshavTech246/L.E.G.E.N.D-Userbot).
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python (Learned Basic Python Only Till Now).
 - 💼 I’m am a School Student.
 
 ![LEGEND's github stats](https://github-readme-stats.vercel.app/api?username=KeshavTech246&show_icons=true&hide_border=true)

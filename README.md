@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Keshav 😉, a programmer 👨🏻‍💻 from India 🇮🇳. Beside's programming, I like tasty food 🥗🥩🌮🍣 and playing basketball. I do some programming just for fun.🏼‍♂️.
+Hi, I'm Keshav 😉, a programmer 👨🏻‍💻 from India 🇮🇳. Beside's programming, I like tasty food and playing basketball. I do some programming just for fun.🏼‍♂️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 

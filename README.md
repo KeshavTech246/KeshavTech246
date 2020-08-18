@@ -1,16 +1,22 @@
-### Hi there 👋
+### Welcome to LEGEND'S Hut 👋
 
-<!--
-**KeshavTech246/KeshavTech246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="edutokwithkeshav@gmail.com">
+  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Keshav 😉, a programmer 👨🏻‍💻 from India 🇮🇳. Beside's programming, I like tasty food 🥗🥩🌮🍣 and playing basketball. I do some programming just for fun.🏼‍♂️.
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+**Current Status Quo**
+
+- 👨🏻‍💻 I’m currently working on [L.E.G.E.N.D Userbot](https://github.com/KeshavTech246/L.E.G.E.N.D-Userbot).
+- 🌱 I’m currently learning Python.
+- 💼 I’m am a School Student.
+
+![LEGEND's github stats](https://github-readme-stats.vercel.app/api?username=KeshavTech246&show_icons=true&hide_border=true)
+
+⭐️ From [LEGEND](https://github.com/KeshavTech246)

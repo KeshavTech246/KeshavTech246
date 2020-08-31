@@ -8,7 +8,7 @@ Hi, I'm Keshav 😉, a programmer 👨🏻‍💻 from India 🇮🇳. Beside's 
 
 **Current Status**
 
-- 👨🏻‍💻 I’m currently working on [L.E.G.E.N.D Userbot](https://github.com/KeshavTech246/L.E.G.E.N.D-Userbot).
+- 👨🏻‍💻 I’m currently working on L.E.G.E.N.D Userbot.
 - 🌱 I’m currently learning Python (Learned Basic Python Only Till Now).
 - 💼 I’m am a School Student.
 
